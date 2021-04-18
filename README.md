@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @djamel-Hamidi
 - 👀 I’m interested in DataScience Projects Management
 - 🌱 I’m currently learning a Master on Data Analytics and Project Management
-- 💞️ I’m looking to collaborate on Data Science o Data Analytics Projects
+- 💞️ I’m looking to collaborate on Data Science or Data Analytics Projects
 - 📫 You can join me by emal or discorde Iron Man#0908
 
 <!---
