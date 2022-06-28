@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Djamel-Hamidi, 23 year oald i'm a softwar developer
+- 👋 Hi, I’m @Djamel-Hamidi, 25 year oald i'm a softwar developer
 - 👀 I’m interested for an evolution in innovation management
 - 🌱 I’m currently learning a Master on Artificial Inteligence and Project Management
 - 💞️ I’m looking to collaborate on Data Science or Data Analytics Projects
